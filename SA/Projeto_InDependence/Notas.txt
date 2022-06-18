@@ -1,0 +1,1 @@
+Projeto In-Dependence que verifica a dependencia do utilizador em relação ao smartphone

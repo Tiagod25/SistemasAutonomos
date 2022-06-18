@@ -1,0 +1,7 @@
+#Robocode robot team
+#Sun Mar 01 22:35:30 GMT 2020
+team.description=Competition Team with 4 Scratchs. Made by Grupo_2
+robocode.version=1.9.3.7
+team.author.name=Grupo_2
+team.version=1
+team.members=Team.RecordScratch*,Team.RecordScratch*,Team.RecordScratch*,Team.RecordScratch*

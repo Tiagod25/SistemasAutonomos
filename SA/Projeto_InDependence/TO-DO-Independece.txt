@@ -1,0 +1,8 @@
+TO-DO Aplicação:
+
+-> Alterar nome e ícone ✅
+-> Tratar das permissões (half done)
+-> Criar classe para troca de mensagens ✅
+-> Guardar dados ✅
+-> Firebase ✅
+-> Graficos 

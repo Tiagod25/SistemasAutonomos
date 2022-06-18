@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">In-Dependence</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Page</string>
+    <string name="second_fragment_label">Second Page</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_page">Bem-vindo à In-Depedence</string>
+    <string name="hello_second_page">Hello second fragment. Arg: %1$s</string>
+
+    <string name="About_us"><b>About Us</b>\n\n Esta aplicação foi desenvolvida no âmbito da cadeira de Sistemas Autónomos, com o intuito de medir e tentar ajudar o utilizador a reduzir a sua dependência do uso do seu Smartphone.\n Este Sistema consiste na recolha de dados da utilização do smartphone e aplicação de um algoritmo de Machine Learning que irá classificar de forma binária se o utilizador está viciado ou não.\n O utilizador poderá também aceder a gráficos estatísticos referentes às estatísticas recolhidas do seu Smartphone, e receber notificações de alerta por utilização excessiva do telemóvel.\n\n\n\n <b>Desenvolvido por:</b>\n
+        Alexandre Pinho \n João Costa \n Tiago Sousa \n Tiago Fontes
+    </string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="service_name">NotificationsService</string>
+    <string name="question">Está a utilizar o dispositivo sem necessidade?</string>
+    <string name="visualize_data">Ver Dados de Utilização</string>
+    <string name="choose">Confirmar</string>
+    <string name="thankYou">Obrigado pela sua resposta!</string>
+
+    <string name="string_title"> Daily News </string>
+</resources>

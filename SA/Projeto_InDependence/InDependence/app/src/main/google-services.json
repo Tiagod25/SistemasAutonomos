@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "670113603757",
+    "firebase_url": "https://in-dependence.firebaseio.com",
+    "project_id": "in-dependence",
+    "storage_bucket": "in-dependence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670113603757:android:7c58cc63e330c64079a624",
+        "android_client_info": {
+          "package_name": "com.example.independence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670113603757-q341kf3kopic8a3eag0rj7oqdpreo41k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.independence",
+            "certificate_hash": "0e28111eddc880de61e1609b2de015777391acc2"
+          }
+        },
+        {
+          "client_id": "670113603757-un6dporvrdlep7ijc9af6to8ivueu960.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.independence",
+            "certificate_hash": "92885f4ed2806c60784d26886c435c7e11fd8c1e"
+          }
+        },
+        {
+          "client_id": "670113603757-4bhha4bkb3k2gskkq5afirdrfddnj7k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJD3mQl86l1KwPPu3RH8Ij6HCP5F3Ar-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670113603757-4bhha4bkb3k2gskkq5afirdrfddnj7k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
